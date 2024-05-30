@@ -1,0 +1,14 @@
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\bin\Debug\net8.0\IntegersOut.exe
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\bin\Debug\net8.0\IntegersOut.deps.json
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\bin\Debug\net8.0\IntegersOut.runtimeconfig.json
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\bin\Debug\net8.0\IntegersOut.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\bin\Debug\net8.0\IntegersOut.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\obj\Debug\net8.0\IntegersOut.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\obj\Debug\net8.0\IntegersOut.AssemblyInfoInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\obj\Debug\net8.0\IntegersOut.AssemblyInfo.cs
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\obj\Debug\net8.0\IntegersOut.csproj.CoreCompileInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\obj\Debug\net8.0\IntegersOut.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\obj\Debug\net8.0\refint\IntegersOut.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\obj\Debug\net8.0\IntegersOut.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\obj\Debug\net8.0\IntegersOut.genruntimeconfig.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\IntegersOut\obj\Debug\net8.0\ref\IntegersOut.dll

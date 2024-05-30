@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\MyUtility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8690A047-DD79-42AF-9932-0A24B9BF5E04}|MainUI\\MainUI.csproj|d:\\fpt\\sem5\\prn211\\.net_src\\session02-language\\myutility\\mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8690A047-DD79-42AF-9932-0A24B9BF5E04}|MainUI\\MainUI.csproj|solutionrelative:mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\MyUtility\\MainUI\\Program.cs",
+              "RelativeDocumentMoniker": "MainUI\\Program.cs",
+              "ToolTip": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\MyUtility\\MainUI\\Program.cs",
+              "RelativeToolTip": "MainUI\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:05:29.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

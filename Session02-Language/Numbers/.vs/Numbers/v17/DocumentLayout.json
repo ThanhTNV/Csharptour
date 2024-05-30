@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4F3ADE-B9A9-453C-B791-D0F26BFAC2D5}|Integers\\Integers.csproj|d:\\fpt\\sem5\\prn211\\.net_src\\session02-language\\numbers\\integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4F3ADE-B9A9-453C-B791-D0F26BFAC2D5}|Integers\\Integers.csproj|solutionrelative:integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BF5F17-038B-4E0A-8A95-5271139A5326}|IntegersOut\\IntegersOut.csproj|d:\\fpt\\sem5\\prn211\\.net_src\\session02-language\\numbers\\integersout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BF5F17-038B-4E0A-8A95-5271139A5326}|IntegersOut\\IntegersOut.csproj|solutionrelative:integersout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0DAC4A-C33A-4AA3-8E20-842A893F6B9C}|IntegersOutV2\\IntegersOutV2.csproj|d:\\fpt\\sem5\\prn211\\.net_src\\session02-language\\numbers\\integersoutv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0DAC4A-C33A-4AA3-8E20-842A893F6B9C}|IntegersOutV2\\IntegersOutV2.csproj|solutionrelative:integersoutv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CB1710-E1A3-42E2-BEB3-E3742D19BE6D}|IntegersRef\\IntegersRef.csproj|d:\\fpt\\sem5\\prn211\\.net_src\\session02-language\\numbers\\integersref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CB1710-E1A3-42E2-BEB3-E3742D19BE6D}|IntegersRef\\IntegersRef.csproj|solutionrelative:integersref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\Numbers\\IntegersOut\\Program.cs",
+              "RelativeDocumentMoniker": "IntegersOut\\Program.cs",
+              "ToolTip": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\Numbers\\IntegersOut\\Program.cs",
+              "RelativeToolTip": "IntegersOut\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:38:18.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\Numbers\\IntegersOutV2\\Program.cs",
+              "RelativeDocumentMoniker": "IntegersOutV2\\Program.cs",
+              "ToolTip": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\Numbers\\IntegersOutV2\\Program.cs",
+              "RelativeToolTip": "IntegersOutV2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:59:56.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\Numbers\\Integers\\Program.cs",
+              "RelativeDocumentMoniker": "Integers\\Program.cs",
+              "ToolTip": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\Numbers\\Integers\\Program.cs",
+              "RelativeToolTip": "Integers\\Program.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAADwv3sAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:59:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\Numbers\\IntegersRef\\Program.cs",
+              "RelativeDocumentMoniker": "IntegersRef\\Program.cs",
+              "ToolTip": "D:\\FPT\\Sem5\\PRN211\\.NET_src\\Session02-Language\\Numbers\\IntegersRef\\Program.cs",
+              "RelativeToolTip": "IntegersRef\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:25:23.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

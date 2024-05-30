@@ -1,0 +1,15 @@
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\bin\Debug\net8.0\StudentManagerV3.exe
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\bin\Debug\net8.0\StudentManagerV3.deps.json
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\bin\Debug\net8.0\StudentManagerV3.runtimeconfig.json
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\bin\Debug\net8.0\StudentManagerV3.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\bin\Debug\net8.0\StudentManagerV3.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.AssemblyInfoInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.AssemblyInfo.cs
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.csproj.CoreCompileInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.sourcelink.json
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\refint\StudentManagerV3.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\StudentManagerV3.genruntimeconfig.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session03-OOP\FAP\StudentManagerV3\obj\Debug\net8.0\ref\StudentManagerV3.dll

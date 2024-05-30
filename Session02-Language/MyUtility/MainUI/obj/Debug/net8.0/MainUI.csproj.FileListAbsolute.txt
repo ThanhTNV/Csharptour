@@ -1,0 +1,14 @@
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\bin\Debug\net8.0\MainUI.exe
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\bin\Debug\net8.0\MainUI.deps.json
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\bin\Debug\net8.0\MainUI.runtimeconfig.json
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\bin\Debug\net8.0\MainUI.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\bin\Debug\net8.0\MainUI.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.AssemblyInfoInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.AssemblyInfo.cs
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.csproj.CoreCompileInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\refint\MainUI.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\MainUI.genruntimeconfig.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\MainUI\obj\Debug\net8.0\ref\MainUI.dll

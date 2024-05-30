@@ -1,0 +1,14 @@
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\bin\Debug\net8.0\Bmi.exe
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\bin\Debug\net8.0\Bmi.deps.json
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\bin\Debug\net8.0\Bmi.runtimeconfig.json
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\bin\Debug\net8.0\Bmi.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\bin\Debug\net8.0\Bmi.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\obj\Debug\net8.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfoInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfo.cs
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\obj\Debug\net8.0\Bmi.csproj.CoreCompileInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\obj\Debug\net8.0\Bmi.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\obj\Debug\net8.0\refint\Bmi.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\obj\Debug\net8.0\Bmi.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\obj\Debug\net8.0\Bmi.genruntimeconfig.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\MyUtility\Bmi\obj\Debug\net8.0\ref\Bmi.dll

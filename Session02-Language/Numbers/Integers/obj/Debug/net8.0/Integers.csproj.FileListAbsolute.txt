@@ -1,0 +1,14 @@
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\bin\Debug\net8.0\Integers.exe
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\bin\Debug\net8.0\Integers.deps.json
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\bin\Debug\net8.0\Integers.runtimeconfig.json
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\bin\Debug\net8.0\Integers.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\bin\Debug\net8.0\Integers.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\obj\Debug\net8.0\Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\obj\Debug\net8.0\Integers.AssemblyInfoInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\obj\Debug\net8.0\Integers.AssemblyInfo.cs
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\obj\Debug\net8.0\Integers.csproj.CoreCompileInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\obj\Debug\net8.0\Integers.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\obj\Debug\net8.0\refint\Integers.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\obj\Debug\net8.0\Integers.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\obj\Debug\net8.0\Integers.genruntimeconfig.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session02-Language\Numbers\Integers\obj\Debug\net8.0\ref\Integers.dll
