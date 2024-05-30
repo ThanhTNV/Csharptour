@@ -27,6 +27,14 @@ namespace StudentManagerV5.Entities
         //Constructor có tham số thì dùng Ctrl + .
         //Vậy thì có n cách để đúc 1 object
         //Hoàn thiện 1 object ta dùng Setter
+        public string GetId()
+        {
+            return _id;
+        }
 
+        public void SetId(string id)
+        {
+            _id = id;
+        }
     }
 }
