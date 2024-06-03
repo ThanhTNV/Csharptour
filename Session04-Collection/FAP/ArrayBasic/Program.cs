@@ -33,6 +33,7 @@
             //==> Mảng chơi với vòng lặp
 
             //length là biến cuối cùng áp dụng cho mảng(property của vùng new [])
+            //MẢNG NGUYÊN THỦY TRONG C# CÓ TÍNH KHẢ DUYỆT(ITERABLE) GIỐNG NHƯ NHỮNG MẢNG TRONG COLLECTION, VÌ THẾ NÊN CÓ THỂ DUYỆT MẢNG BẰNG FOR EACH - THAY VÌ DÙNG FOR LOOP TRUYỀN THỐNG
         }
         static void PlayWithIntegerListV3()
         {
