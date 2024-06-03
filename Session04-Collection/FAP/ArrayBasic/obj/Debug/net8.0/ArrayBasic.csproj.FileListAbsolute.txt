@@ -1,0 +1,15 @@
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.exe
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.deps.json
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.runtimeconfig.json
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.AssemblyInfoInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.AssemblyInfo.cs
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.csproj.CoreCompileInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.sourcelink.json
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\refint\ArrayBasic.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.genruntimeconfig.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ref\ArrayBasic.dll
