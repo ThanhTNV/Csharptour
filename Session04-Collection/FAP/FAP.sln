@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayBasic", "ArrayBasic\ArrayBasic.csproj", "{5A9D112B-D346-42E8-876A-273FB380587D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayBasic", "ArrayBasic\ArrayBasic.csproj", "{5A9D112B-D346-42E8-876A-273FB380587D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayStudent", "ArrayStudent\ArrayStudent.csproj", "{B7D0C62F-40E3-42C5-924F-705AC6D9A1AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayStudent", "ArrayStudent\ArrayStudent.csproj", "{B7D0C62F-40E3-42C5-924F-705AC6D9A1AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
