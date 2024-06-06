@@ -4,11 +4,31 @@
     {
         static void Main(string[] args)
         {
-            PlayWithIntegerListV4();
+            PlayWithIntegerListV5();
         }
 
 
         //CHALLENGE #1: HÃY LƯU TRỮ DÃY SỐ 5, 10, 15, 20, ... 50 VÀ IN RA MÀN HÌNH
+
+        static void PlayWithIntegerListV5()
+        {
+            int[] arr = new int[10];
+            arr[0] = 5;
+            arr[1] = 10;
+            arr[2] = 15;
+            arr[3] = 20;
+            //TA MỚI XÀI, GÁN 4 PHẦN TỬ(ELEMENT), 4 BIẾN CÓ CÓ GIÁ TRỊ, BIẾN TRONG MẢNG GỌI LÀ PHẦN TỬ
+            //VẬY CÁC BIẾN CÒN LẠI MANG GIÁ TRỊ MẤY?
+            //ĐỪNG QUÊN: MẢNG LÀ OBJECT, LÀ 1 VÙNG NEW CHỨA NHIỀU BIẾN BÊN TRONG, CŨNG NHƯ NEW STUDENT() CHỨA NHIỀU INFO BÊN TRONG
+            Console.WriteLine("List of numbers using for loop: ");
+            for (int i = 0; i < arr.Length; i++)
+                Console.Write(arr[i] + " ");
+            Console.WriteLine("\nList of numbers using for each: ");//sống có trách nhiệm
+            foreach (int number in arr)
+                Console.Write(number + " ");
+
+
+        }
         static void PlayWithIntegerListV4()
         {
             int[] arr = new int[10]{ 5, 10, 15, 20, 25, 30, 35, 40, 45, 50 };
