@@ -12,11 +12,22 @@ namespace StudentManager
             //2 VÙNG NEW RIÊNG BIỆT, 2 TỦ RIÊNG BIỆT
             cabinetSE.AddAStudent(new Student() { Id = "SE1", Name = "An" });
             cabinetSE.AddAStudent(new Student() { Id = "SE2", Name = "Cuong" });
-            Console.WriteLine("SE Student Cabinet:");
-            cabinetSE.ShowList();
-            Console.WriteLine("BIZ Student Cabinet:");
-            cabinetBiz.ShowList();
+            while (true)
+            {
+                ShowMenu();
+                int choice = GetChoice();
+                switch (choice)
+                {
+                    case 1:
+                        {
+                            cabinetSE.AddAStudent();
+                            break;
+                        }
+                }
+            }
         }
+
+        
     }
 }
 
