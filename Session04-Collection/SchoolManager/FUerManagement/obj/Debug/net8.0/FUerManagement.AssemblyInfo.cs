@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FUerManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3476d77d0d957965a765d58dba88a65a90ef54a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b17298623642a9fd9e997e19e648358e4056b29")]
 [assembly: System.Reflection.AssemblyProductAttribute("FUerManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FUerManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
