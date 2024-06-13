@@ -1,0 +1,15 @@
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\bin\Debug\net8.0\FUerManager.exe
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\bin\Debug\net8.0\FUerManager.deps.json
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\bin\Debug\net8.0\FUerManager.runtimeconfig.json
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\bin\Debug\net8.0\FUerManager.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\bin\Debug\net8.0\FUerManager.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\obj\Debug\net8.0\FUerManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\obj\Debug\net8.0\FUerManager.AssemblyInfoInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\obj\Debug\net8.0\FUerManager.AssemblyInfo.cs
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\obj\Debug\net8.0\FUerManager.csproj.CoreCompileInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\obj\Debug\net8.0\FUerManager.sourcelink.json
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\obj\Debug\net8.0\FUerManager.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\obj\Debug\net8.0\refint\FUerManager.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\obj\Debug\net8.0\FUerManager.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\obj\Debug\net8.0\FUerManager.genruntimeconfig.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\FAP\FUerManager\obj\Debug\net8.0\ref\FUerManager.dll

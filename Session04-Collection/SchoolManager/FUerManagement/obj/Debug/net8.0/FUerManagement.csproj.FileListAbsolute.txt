@@ -1,0 +1,15 @@
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\bin\Debug\net8.0\FUerManagement.exe
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\bin\Debug\net8.0\FUerManagement.deps.json
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\bin\Debug\net8.0\FUerManagement.runtimeconfig.json
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\bin\Debug\net8.0\FUerManagement.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\bin\Debug\net8.0\FUerManagement.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\obj\Debug\net8.0\FUerManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\obj\Debug\net8.0\FUerManagement.AssemblyInfoInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\obj\Debug\net8.0\FUerManagement.AssemblyInfo.cs
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\obj\Debug\net8.0\FUerManagement.csproj.CoreCompileInputs.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\obj\Debug\net8.0\FUerManagement.sourcelink.json
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\obj\Debug\net8.0\FUerManagement.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\obj\Debug\net8.0\refint\FUerManagement.dll
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\obj\Debug\net8.0\FUerManagement.pdb
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\obj\Debug\net8.0\FUerManagement.genruntimeconfig.cache
+D:\FPT\Sem5\PRN211\.NET_src\Session04-Collection\SchoolManager\FUerManagement\obj\Debug\net8.0\ref\FUerManagement.dll
