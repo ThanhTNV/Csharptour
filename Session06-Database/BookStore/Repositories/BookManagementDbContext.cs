@@ -5,6 +5,8 @@ using Repositories.Entities;
 
 namespace Repositories;
 
+//DẤU ":" (C#) ~ EXTENDS (JAVA)
+//CLASS DbContext có sẵn trong EF Core, chứa các hàm, method dùng để giúp dân dev ta thao tác trên các CSDL thật sự: SQL Server, MySQL,...
 public partial class BookManagementDbContext : DbContext
 {
     public BookManagementDbContext()
