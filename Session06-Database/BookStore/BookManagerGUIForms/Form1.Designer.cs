@@ -90,7 +90,7 @@
             // 
             // cboCountry
             // 
-            cboCountry.BackColor = SystemColors.Window;
+            cboCountry.BackColor = Color.FromArgb(255, 128, 128);
             cboCountry.Font = new Font("Segoe UI", 16.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
             cboCountry.ForeColor = Color.Yellow;
             cboCountry.FormattingEnabled = true;
